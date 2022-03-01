@@ -81,7 +81,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'fress',
         'USER': 'root',
-        'PASSWORD': '***REMOVED***',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '3306',
                 'OPTIONS':{'charset':'utf8mb4'},
